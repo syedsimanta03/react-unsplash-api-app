@@ -1,0 +1,2 @@
+.image-list{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));grid-auto-rows:10px;justify-items:center;grid-gap:0 10px;align-items:center}.image-list:last-of-type{grid-gap:0 0}.image-list img{max-width:250px;grid-row-end:span 2;object-fit:cover;padding:3%;background-color:#fff;box-shadow:0 1px 3px 0 rgba(0,0,0,.1),0 1px 2px 0 rgba(0,0,0,.06)}
+/*# sourceMappingURL=main.8e6027c9.chunk.css.map */
