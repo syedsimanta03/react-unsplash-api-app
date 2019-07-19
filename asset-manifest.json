@@ -1,15 +1,13 @@
 {
   "files": {
-    "main.css": "/react-unsplash-api-app/static/css/main.8e6027c9.chunk.css",
-    "main.js": "/react-unsplash-api-app/static/js/main.47135e36.chunk.js",
-    "main.js.map": "/react-unsplash-api-app/static/js/main.47135e36.chunk.js.map",
-    "runtime~main.js": "/react-unsplash-api-app/static/js/runtime~main.8f3c05b9.js",
-    "runtime~main.js.map": "/react-unsplash-api-app/static/js/runtime~main.8f3c05b9.js.map",
-    "static/js/2.fc36bde1.chunk.js": "/react-unsplash-api-app/static/js/2.fc36bde1.chunk.js",
-    "static/js/2.fc36bde1.chunk.js.map": "/react-unsplash-api-app/static/js/2.fc36bde1.chunk.js.map",
-    "index.html": "/react-unsplash-api-app/index.html",
-    "precache-manifest.14a22b2282690efaf5153da04b3dbfbe.js": "/react-unsplash-api-app/precache-manifest.14a22b2282690efaf5153da04b3dbfbe.js",
-    "service-worker.js": "/react-unsplash-api-app/service-worker.js",
-    "static/css/main.8e6027c9.chunk.css.map": "/react-unsplash-api-app/static/css/main.8e6027c9.chunk.css.map"
+    "main.js": "/react-redux-lodash-blog/static/js/main.095e4c6c.chunk.js",
+    "main.js.map": "/react-redux-lodash-blog/static/js/main.095e4c6c.chunk.js.map",
+    "runtime~main.js": "/react-redux-lodash-blog/static/js/runtime~main.186e5fcb.js",
+    "runtime~main.js.map": "/react-redux-lodash-blog/static/js/runtime~main.186e5fcb.js.map",
+    "static/js/2.e4512e71.chunk.js": "/react-redux-lodash-blog/static/js/2.e4512e71.chunk.js",
+    "static/js/2.e4512e71.chunk.js.map": "/react-redux-lodash-blog/static/js/2.e4512e71.chunk.js.map",
+    "index.html": "/react-redux-lodash-blog/index.html",
+    "precache-manifest.68593881c682445544d885d2ce3ef544.js": "/react-redux-lodash-blog/precache-manifest.68593881c682445544d885d2ce3ef544.js",
+    "service-worker.js": "/react-redux-lodash-blog/service-worker.js"
   }
 }
